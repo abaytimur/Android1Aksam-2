@@ -23,44 +23,53 @@
 - 1 Mayıs dolayısıyla eğitim yapılmayacaktır.
 
 ## 3.hafta
-### 06.05.2019 Çarşamba
-### 07.05.2019 Çarşamba
+### 06.05.2019 Pazartesi
+### 07.05.2019 Salı
 ### 08.05.2019 Çarşamba
 
 ## 4.hafta
-### 13.05.2019 Çarşamba
-### 14.05.2019 Çarşamba
+### 13.05.2019 Pazartesi
+- Intent Kullanımı
+### 14.05.2019 Salı
+- Intent Kullanımı
 ### 15.05.2019 Çarşamba
+- İmplicit Intent
+- Explicit Intent
+- Intent ile Farklı Uygulamalar ile etkileşim
 
 ## 5.hafta
-### 20.05.2019 Çarşamba
-### 21.05.2019 Çarşamba
-### 21.05.2019 Çarşamba
+### 20.05.2019 Pazartesi
+- Splash Screen Örneği
+- Toolbar rengini değiştirmek
+- Toolbar'a menü eklemek
+- Menü item'a tıklanma olayı
+### 21.05.2019 Salı
+### 22.05.2019 Çarşamba
 
 ## 6.hafta
-### 27.05.2019 Çarşamba
-### 28.05.2019 Çarşamba
+### 27.05.2019 Pazartesi
+### 28.05.2019 Salı
 ### 29.05.2019 Çarşamba
 
 ## 7.hafta
-### 03.06.2019 Çarşamba
+### 03.06.2019 Pazartesi
 - Bayram Tatili
-### 04.06.2019 Çarşamba
+### 04.06.2019 Salı
 - Bayram Tatili
 ### 05.06.2019 Çarşamba
 - Bayram Tatili
 
 ## 8.hafta
-### 10.06.2019 Çarşamba
-### 11.06.2019 Çarşamba
+### 10.06.2019 Pazartesi
+### 11.06.2019 Salı
 ### 12.06.2019 Çarşamba
 
 ## 9.hafta
-### 17.06.2019 Çarşamba
-### 18.06.2019 Çarşamba
+### 17.06.2019 Pazartesi
+### 18.06.2019 Salı
 ### 19.06.2019 Çarşamba
 
 ## 10.hafta
-### 24.06.2019 Çarşamba
-### 25.06.2019 Çarşamba
+### 24.06.2019 Pazartesi
+### 25.06.2019 Salı
 ### 26.06.2019 Çarşamba
