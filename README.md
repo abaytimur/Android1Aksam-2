@@ -44,7 +44,10 @@
 - Toolbar'a menü eklemek
 - Menü item'a tıklanma olayı
 ### 21.05.2019 Salı
+- ArrayAdapter ile ListView Kullanımı
+- SimpleAdapter ile ListView Kullanımı
 ### 22.05.2019 Çarşamba
+- BaseAdapter ile Custom ListView Kullanımı
 
 ## 6.hafta
 ### 27.05.2019 Pazartesi
