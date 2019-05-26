@@ -18,14 +18,37 @@
 
 ## 2.hafta
 ### 29.04.2019 Pazartesi
+- Android Layout Türleri
+- RelativeLayout
+- LinearLayout
+- ConstraintLayout
 ### 30.04.2019 Salı
+- Resources Kavramları
+- Yazı Birleştirme
+- Sayaç Uygulaması
+- Butona Tıklayınca resim değiştirme
 ### 01.05.2019 Çarşamba
 - 1 Mayıs dolayısıyla eğitim yapılmayacaktır.
 
 ## 3.hafta
 ### 06.05.2019 Pazartesi
+- Hesaplama Örneği
+- Glide Kütüphanesi ile Resim Çağırma
+- CheckBox
+- RadioButton
+- ToggleButton
+- Butona Tıklama Yöntemleri
+- Butona Tıklama Olayları
 ### 07.05.2019 Salı
+- WebView
+- ScrollView
+- ActivityLifeCycle
+- 2048 Oyunu
 ### 08.05.2019 Çarşamba
+- VideoView
+- Spinner
+- AutoCompleteTextView
+- MultiAutoCompleteTextView
 
 ## 4.hafta
 ### 13.05.2019 Pazartesi
